@@ -5,5 +5,9 @@
   "repository": "https://github.com/bachtuyetx7chulun/OOP.git",
   "author": "bachtuyetx7chulun <contact.truongtrunghieu@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.5"
+  }
 }
