@@ -1,0 +1,9 @@
+{
+  "name": "pizza",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/bachtuyetx7chulun/OOP.git",
+  "author": "bachtuyetx7chulun <contact.truongtrunghieu@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
