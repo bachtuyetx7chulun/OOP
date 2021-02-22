@@ -1,16 +1,11 @@
-// interface IPizza {
-//   name: String;
-//   dougt: String;
-//   sauce: String;
-//   toppings: Array<String>;
-// }
+export default interface IPizza {
+  // name: string;
+  // dough: string;
+  // sauce: string;
+  // toppings: Array<string>;
 
-// const pizza: IPizza = {
-//   name: "123",
-//   dougt: "123",
-//   sauce: "123",
-//   toppings: ["123", "123"],
-// };
-
-
-// console.log(pizza);
+  Preparing(): void;
+  Bake(): void;
+  Cut(): void;
+  Box(): void;
+}
